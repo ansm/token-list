@@ -184615,6 +184615,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6Tph3SxbAW12BSJdCevVV9Zujh97X69d5MJ4XjwKmray",
+      "symbol": "CYAI",
+      "name": "CyreneAI",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6Tph3SxbAW12BSJdCevVV9Zujh97X69d5MJ4XjwKmray/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
